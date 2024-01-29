@@ -6,28 +6,28 @@
 <!-- section - intro -->
 # Akshay Jayaram
 ### Software Engineer and Web Developer
-Welcome to my GitHub page! Here you'll find a collection of my projects, skills, and experiences as a passionate software developer. I'm currently seeking a full-time SDE opportunity starting from May 2023. Feel free to explore and get in touch!
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time Summer 2024 internship opportunity, eager to apply my skills and passion for innovation.
 
 ## About Me
-Hi, I'm Mansi Pravin Thanki, a skilled **Software Developer** specializing in **Data Science and Artificial Intelligence**. I recently graduated with a **Master's degree in Computer Science from Northeastern University**. I enjoy working on diverse projects and have experience in web development, database management, and software engineering. My goal is to leverage my skills and knowledge to create innovative and efficient solutions.
+Hi, I'm Akshay Jayaram, a skilled software developer with experience in JavaScript and expertise in frameworks like React, Node.js, and Three.js. Currently, I'm on a transformative journey as I pursue my Master's degree in Computer Engineering at the University of California, Riverside. Beyond the screen, I'm a nature enthusiast, a coffee lover, and a firm believer in work-life balance.
 
 
 ### aboutMe.js
 
 ```javascript
 const akshay = {
-    code: ["Javascript", "Python", "R", "SQL", "C#", "HTML", "CSS", "Java"],
+    code: ["Javascript", "Java", "SQL", "HTML", "CSS"],
     askMeAbout: ["web dev", "front end", "back end", "full stack"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize", "tailwindcss"],
-            js: ["React", "Angular", "NextJs", "Rescript"]
+            js: ["React", "Redux", "NextJs", "ThreeJs"]
         },
         backEnd: {
             js: ["firebase", "node", "express"]
         },
-        databases: ["MySQL","RSQLite", "PostgreSQL", "MongoDB", "Oracle"],
-        misc: ["Git", "Tableau", "AWS", "Selenium", "Jupyter Notebook", "Cypress"]
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+        misc: ["Git", "Tableau", "PowerBI", "Jira", "Jupyter Notebook", "Figma"]
     }
 };
 ```
@@ -35,23 +35,22 @@ const akshay = {
 
 <!-- section - skills -->
 
-## My Skillset Overview 💻
+## My Skillset Overview 
 
-𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬: JavaScript, Java, SQL 
-
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬: MySQL, Mongo DB, Oracle Database, SQLite  
-
-𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐓𝐨𝐨𝐥𝐬/𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬: AWS, HTML, JavaScript, CSS, React, Next Apache Web server, Bootstrap, PHP, AngularJS, Apache Tomcat, Selenium Tool, REST APIs, Jasmine Framework, JIRA, Confluence, Postman, Jupyter Notebook, SSMS 
+Programming Languages: JavaScript, Java, SQL 
+Database and Big Data: MySQL, PostgreSQL, MongoDB, Firestore; Hadoop, Apache Spark, Spark SQL, MLlib
+Framework/ Libraries: React.js, Node.js, Redux, Next.js, Three.js, Firebase, Tailwind CSS, Docker, Git
+Cloud Technologies: AWS and Azure.
 
 
 <!-- section - job details -->
 
-## Cloud:
+## Certification:
 
 [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/jayaramakshay-7505/credentials/a7273c77d8291f2d)
 
 
-## 📫 Get in touch
+## Get in touch
 
 <a href="https://www.linkedin.com/in/akshay-jayaram/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
