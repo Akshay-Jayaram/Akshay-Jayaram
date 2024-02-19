@@ -9,7 +9,7 @@
 Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time Summer 2024 internship opportunity, eager to apply my skills and passion for innovation.
 
 ## About Me
-Hi, I'm Akshay Jayaram, a skilled software developer with experience in JavaScript and expertise in frameworks like React, Node.js, and Three.js. Currently, I'm on a transformative journey as I pursue my Master's degree in Computer Engineering at the University of California, Riverside. Beyond the screen, I'm a nature enthusiast, a coffee lover, and a firm believer in work-life balance.
+Hi, I'm Akshay Jayaram, a skilled software developer proficient in JavaScript and frameworks such as React, Node.js, and Three.js. I also have hands-on experience in cloud computing, holding Azure certification and possessing experience in AWS. Currently, I'm pursuing my Master's degree in Computer Engineering at the University of California, Riverside. Beyond the screen, I'm a nature enthusiast, a coffee lover, and a firm believer in work-life balance.
 
 
 ### aboutMe.js
