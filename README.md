@@ -17,7 +17,7 @@ Hi, I'm Akshay Jayaram, a skilled software developer proficient in JavaScript an
 ```javascript
 const akshay = {
     code: ["Javascript", "Java", "SQL", "HTML", "CSS"],
-    askMeAbout: ["web dev", "front end", "back end", "full stack"],
+    askMeAbout: ["web dev", "front end", "back end", "cloud"],
     technologies: {
         frontEnd: {
             css: ["bootstrap", "materialize", "tailwindcss"],
@@ -26,7 +26,8 @@ const akshay = {
         backEnd: {
             js: ["firebase", "node", "express"]
         },
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+        cloud technologies: ["AWS (EC2, S3, Lambda, SQS)", "Azure"]
+        databases: ["MySQL", "PostgreSQL", "MongoDB"],
         misc: ["Git", "Tableau", "PowerBI", "Jira", "Jupyter Notebook", "Figma"]
     }
 };
