@@ -26,7 +26,7 @@ const akshay = {
         backEnd: {
             js: ["firebase", "node", "express"]
         },
-        cloud technologies: ["AWS (EC2, S3, Lambda, SQS)", "Azure"]
+        cloud technologies: ["AWS (EC2, S3, Lambda, SQS)", "Azure"],
         databases: ["MySQL", "PostgreSQL", "MongoDB"],
         misc: ["Git", "Tableau", "PowerBI", "Jira", "Jupyter Notebook", "Figma"]
     }
@@ -38,9 +38,9 @@ const akshay = {
 
 ## My Skillset Overview 
 
-Programming Languages: JavaScript, Java, SQL 
-Database and Big Data: MySQL, PostgreSQL, MongoDB, Firestore; Hadoop, Apache Spark, Spark SQL, MLlib
-Framework/ Libraries: React.js, Node.js, Redux, Next.js, Three.js, Firebase, Tailwind CSS, Docker, Git
+Programming Languages: JavaScript, Java, SQL <br>
+Database and Big Data: MySQL, PostgreSQL, MongoDB, Firestore; Hadoop, Apache Spark, Spark SQL, MLlib<br>
+Framework/ Libraries: React.js, Node.js, Redux, Next.js, Three.js, Firebase, Tailwind CSS, Docker, Git<br>
 Cloud Technologies: AWS and Azure.
 
 
