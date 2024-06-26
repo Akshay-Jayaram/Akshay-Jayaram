@@ -49,6 +49,7 @@ Cloud Technologies: AWS and Azure.
 ## Certification:
 
 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/73849694-12b1-4f52-91c2-2cf6fa46fd25/linked_in_profile)
+
 [**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/jayaramakshay-7505/credentials/a7273c77d8291f2d)
 
 
