@@ -6,17 +6,17 @@
 <!-- section - intro -->
 # Akshay Jayaram
 ### Software Engineer and Web Developer
-Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time Summer 2024 internship opportunity, eager to apply my skills and passion for innovation.
+Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time opportunity, eager to apply my skills and passion for innovation.
 
 ## About Me
-Hi, I'm Akshay Jayaram, a skilled software developer proficient in JavaScript and frameworks such as React, Node.js, and Three.js. I also have hands-on experience in cloud computing, holding Azure certification and possessing experience in AWS. Currently, I'm pursuing my Master's degree in Computer Engineering at the University of California, Riverside. Beyond the screen, I'm a nature enthusiast, a coffee lover, and a firm believer in work-life balance.
+Hi, I'm Akshay Jayaram, a passionate software developer currently pursuing my Master's degree in Computer Engineering at the University of California, Riverside. My expertise lies in web development, with a strong focus on UI/UX design, creating intuitive and responsive user experiences. I am also proficient in Python and JavaScript and have a solid foundation in coding, data structures, and algorithms. Additionally, I am deeply interested in cloud technologies and Generative AI applications, constantly exploring how they can transform and enhance modern computing solutions. Beyond the screen, I'm a nature enthusiast, a coffee lover, and a firm believer in work-life balance..
 
 
 ### aboutMe.js
 
 ```javascript
 const akshay = {
-    code: ["Javascript", "Java", "SQL", "HTML", "CSS"],
+    code: ["Javascript", "Python", "HTML", "CSS"],
     askMeAbout: ["web dev", "front end", "back end", "cloud"],
     technologies: {
         frontEnd: {
@@ -24,9 +24,9 @@ const akshay = {
             js: ["React", "Redux", "NextJs", "ThreeJs"]
         },
         backEnd: {
-            js: ["firebase", "node", "express"]
+            js: ["MongoDB", "node", "express"]
         },
-        cloud technologies: ["AWS (EC2, S3, Lambda, SQS)", "Azure"],
+        cloud technologies: ["AWS", "Azure"],
         databases: ["MySQL", "PostgreSQL", "MongoDB"],
         misc: ["Git", "Tableau", "PowerBI", "Jira", "Jupyter Notebook", "Figma"]
     }
@@ -38,9 +38,9 @@ const akshay = {
 
 ## My Skillset Overview 
 
-Programming Languages: JavaScript, Python, Java, SQL <br>
-Database and Big Data: MySQL, PostgreSQL, MongoDB, Firestore; Hadoop, Apache Spark, Spark SQL, MLlib<br>
-Framework/ Libraries: React.js, Node.js, Redux, Next.js, Three.js, Firebase, Tailwind CSS, Docker, Git<br>
+Programming Languages: JavaScript, Python, Java, TypeScript, Web development(HTML5, CSS) <br>
+Database and Big Data: MySQL, PostgreSQL, MongoDB, Redis; Apache Spark, Spark SQL, MLlib<br>
+Framework/ Libraries: React.js, Node.js, Express.js, Next.js, GraphQL, Git<br>
 Cloud Technologies: AWS and Azure.
 
 
