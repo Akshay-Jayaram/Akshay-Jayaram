@@ -5,7 +5,7 @@
 
 <!-- section - intro -->
 # Akshay Jayaram
-### Software Engineer and Web Developer
+### Software Engineer, Cloud and Web Developer
 Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time opportunity, eager to apply my skills and passion for innovation.
 
 ## About Me
@@ -47,6 +47,8 @@ Cloud Technologies: AWS and Azure.
 <!-- section - job details -->
 
 ## Certification:
+
+[**AWS Certified Developer – Associate**](https://www.credly.com/badges/cccaeb38-56ba-43fe-aa1b-c95a8dd4baac/public_url)
 
 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/73849694-12b1-4f52-91c2-2cf6fa46fd25/linked_in_profile)
 
