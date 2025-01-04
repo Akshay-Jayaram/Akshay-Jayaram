@@ -9,39 +9,33 @@
 Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time opportunity, eager to apply my skills and passion for innovation.
 
 ## About Me
-Hi, I'm Akshay Jayaram, a passionate software developer currently pursuing my Master's degree in Computer Engineering at the University of California, Riverside. My expertise lies in web development, with a strong focus on UI/UX design, creating intuitive and responsive user experiences. I am also proficient in Python and JavaScript and have a solid foundation in coding, data structures, and algorithms. Additionally, I am deeply interested in cloud technologies and Generative AI applications, constantly exploring how they can transform and enhance modern computing solutions. Beyond the screen, I'm a nature enthusiast, a coffee lover, and a firm believer in work-life balance..
+Hi, I’m Akshay Jayaram, a software engineer with a Master’s degree in Computer Engineering from the University of California, Riverside. My expertise spans cloud computing, DevOps, and Infrastructure-as-Code (IaC) tools like Terraform and CloudFormation, with a focus on building scalable and reliable solutions. I have hands-on experience in designing CI/CD pipelines, automating deployments, and leveraging AWS services to optimize cloud infrastructure. In addition, I excel in web development, crafting intuitive and responsive user experiences with technologies like React.js, TypeScript, and Next.js. Passionate about generative AI, I explore innovative ways to integrate AI into modern applications. Outside of work, I’m a coffee enthusiast, a nature lover, and a strong advocate for work-life balance.
 
 
 ### aboutMe.js
 
 ```javascript
 const akshay = {
-    code: ["Javascript", "Python", "HTML", "CSS"],
-    askMeAbout: ["web dev", "front end", "back end", "cloud"],
+    code: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+    askMeAbout: ["web development", "front-end", "back-end", "cloud", "DevOps", "IaC"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize", "tailwindcss"],
-            js: ["React", "Redux", "NextJs", "ThreeJs"]
+            css: ["Bootstrap", "TailwindCSS", "SASS"],
+            js: ["React", "Redux", "Next.js", "Three.js", "D3.js"]
         },
         backEnd: {
-            js: ["MongoDB", "node", "express"]
+            js: ["Node.js", "Express.js", "GraphQL"]
         },
-        cloud technologies: ["AWS", "Azure"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        misc: ["Git", "Tableau", "PowerBI", "Jira", "Jupyter Notebook", "Figma"]
+        cloudAndDevOps: {
+            platforms: ["AWS", "Azure"],
+            tools: ["Terraform", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Ansible"]
+        },
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB", "Redis"],
+        misc: ["Git", "Power BI", "Datadog", "Jira", "Figma"]
     }
 };
 ```
 ![](https://komarev.com/ghpvc/?username=Akshay-Jayaram&color=blue&style=for-the-badge)
-
-<!-- section - skills -->
-
-## My Skillset Overview 
-
-Programming Languages: JavaScript, Python, Java, TypeScript, Web development(HTML5, CSS) <br>
-Database and Big Data: MySQL, PostgreSQL, MongoDB, Redis; Apache Spark, Spark SQL, MLlib<br>
-Framework/ Libraries: React.js, Node.js, Express.js, Next.js, GraphQL, Git<br>
-Cloud Technologies: AWS and Azure.
 
 
 <!-- section - job details -->
