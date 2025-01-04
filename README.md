@@ -40,13 +40,20 @@ const akshay = {
 
 <!-- section - job details -->
 
-## Certification:
+## Certification
 
-[![AWS Certified Developer – Associate](./developer-associate.png)](https://www.credly.com/badges/cccaeb38-56ba-43fe-aa1b-c95a8dd4baac/public_url)
-
-[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/73849694-12b1-4f52-91c2-2cf6fa46fd25/linked_in_profile)
-
-[**Microsoft Certified: Azure Fundamentals**](https://learn.microsoft.com/en-us/users/jayaramakshay-7505/credentials/a7273c77d8291f2d)
+<a href="https://www.credly.com/badges/cccaeb38-56ba-43fe-aa1b-c95a8dd4baac/public_url">
+  <img src="./developer-associate.png" alt="AWS Certified Developer – Associate" width="150" height="150" style="margin-right: 20px;">
+</a>
+<a href="https://www.credly.com/badges/73849694-12b1-4f52-91c2-2cf6fa46fd25/linked_in_profile">
+  <img src="./cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" height="150" style="margin-right: 20px;">
+</a>
+<a href="https://learn.microsoft.com/en-us/users/jayaramakshay-7505/credentials/a7273c77d8291f2d">
+  <img src="./azure-fundamentals.png" alt="Microsoft Certified: Azure Fundamentals" width="150" height="150" style="margin-right: 20px;">
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JAYARAMAKSHAY-7505/A811E2FFEF3D52EF?sharingId=B6702B394732500D">
+  <img src="./azure-fundamentals.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="150" height="150">
+</a>
 
 
 ## Get in touch
