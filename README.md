@@ -42,7 +42,7 @@ const akshay = {
 
 ## Certification:
 
-[**AWS Certified Developer – Associate**](https://www.credly.com/badges/cccaeb38-56ba-43fe-aa1b-c95a8dd4baac/public_url)
+[![AWS Certified Developer – Associate](./developer-associate.png)](https://www.credly.com/badges/cccaeb38-56ba-43fe-aa1b-c95a8dd4baac/public_url)
 
 [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/73849694-12b1-4f52-91c2-2cf6fa46fd25/linked_in_profile)
 
