@@ -45,6 +45,9 @@ const akshay = {
 <a href="https://www.credly.com/badges/cccaeb38-56ba-43fe-aa1b-c95a8dd4baac/public_url">
   <img src="./developer-associate.png" alt="AWS Certified Developer – Associate" width="150" height="150" style="margin-right: 40px;">
 </a>
+<a href="https://www.credly.com/badges/f815036f-4eea-4422-b31c-0f4d84f58755/public_url">
+  <img src="./ai.png" alt="AWS Certified AI Practitioner" width="150" height="150" style="margin-right: 40px;">
+</a>
 <a href="https://www.credly.com/badges/73849694-12b1-4f52-91c2-2cf6fa46fd25/linked_in_profile">
   <img src="./cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" height="150" style="margin-right: 40px;">
 </a>
