@@ -5,35 +5,104 @@
 
 <!-- section - intro -->
 # Akshay Jayaram
-### Software Engineer, Cloud and Web Developer
+### Cloud | DevOps | AI
 Welcome to my GitHub page! Here you'll find a collection of my projects and skills as a passionate software developer. I'm currently on the lookout for a full-time opportunity, eager to apply my skills and passion for innovation.
 
 ## About Me
-Hi, I’m Akshay Jayaram, a software engineer with a Master’s degree in Computer Engineering from the University of California, Riverside. My expertise spans cloud computing, DevOps, and Infrastructure-as-Code (IaC) tools like Terraform and CloudFormation, with a focus on building scalable and reliable solutions. I have hands-on experience in designing CI/CD pipelines, automating deployments, and leveraging AWS services to optimize cloud infrastructure. In addition, I excel in web development, crafting intuitive and responsive user experiences with technologies like React.js, TypeScript, and Next.js. Passionate about generative AI, I explore innovative ways to integrate AI into modern applications. Outside of work, I’m a coffee enthusiast, a nature lover, and a strong advocate for work-life balance.
+Hi, I’m Akshay Jayaram, a software engineer with a Master’s degree in Computer Engineering from the University of California, Riverside. My expertise lies in cloud computing, DevOps, and infrastructure as code, with hands-on experience using AWS, Terraform, CloudFormation, Docker, and Kubernetes. I’m also deeply interested in cloud security and generative AI, and I enjoy integrating cutting-edge technologies into scalable, secure systems. Beyond the screen, I’m a nature enthusiast, a coffee lover, and a firm believer in work-life balance.
 
 
-### aboutMe.js
+### aboutMe.yaml
 
-```javascript
-const akshay = {
-    code: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web development", "front-end", "back-end", "cloud", "DevOps", "IaC"],
-    technologies: {
-        frontEnd: {
-            css: ["Bootstrap", "TailwindCSS", "SASS"],
-            js: ["React", "Redux", "Next.js", "Three.js", "D3.js"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express.js", "GraphQL"]
-        },
-        cloudAndDevOps: {
-            platforms: ["AWS", "Azure"],
-            tools: ["Terraform", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Ansible"]
-        },
-        databases: ["MySQL", "PostgreSQL", "MongoDB", "DynamoDB", "Redis"],
-        misc: ["Git", "Power BI", "Datadog", "Jira", "Figma"]
-    }
-};
+```yaml
+akshay:   
+  askMeAbout: 
+    - "cloud architecture"
+    - "DevOps automation" 
+    - "container orchestration"
+    - "infrastructure as code"
+    - "microservices"
+    - "CI/CD pipelines"
+    
+  technologies:
+    programmingAndScripting:
+      - "Python"
+      - "Go"
+      - "JavaScript"
+      - "TypeScript"  
+      - "Bash/Shell scripting"
+      
+    cloudServices:
+      aws: 
+        - "EKS"
+        - "Lambda" 
+        - "API Gateway"
+        - "SageMaker"
+        - "CloudFormation"
+        - "VPC"
+        - "S3"
+        - "EC2"
+        - "CloudFront"
+        - "CodeBuild"
+      azure:
+        - "AKS"
+        - "Key Vault"
+        - "Azure AD"
+        
+    devOpsAndInfrastructure:
+      containerization:
+        - "Docker"
+        - "Kubernetes"
+        - "Helm"
+      iac:
+        - "Terraform"
+        - "CloudFormation"
+        - "Ansible"
+      cicd:
+        - "Jenkins"
+        - "GitHub Actions"
+        - "AWS CodeBuild"
+      monitoring:
+        - "Datadog"
+        - "Splunk"
+        - "CloudWatch"
+        - "Sentry"
+      tools:
+        - "Git"
+        - "Linux"
+        - "Rancher"
+        - "JFrog"
+        
+    frameworksAndDatabases:
+      frontend:
+        - "React.js"
+        - "Next.js"
+      backend:
+        - "Node.js"
+        - "Express.js"
+        - "GraphQL"
+        - "REST APIs"
+      databases:
+        - "MongoDB"
+        - "DynamoDB" 
+        - "MySQL"
+        - "PostgreSQL"
+        - "ElasticSearch"
+        - "Redis"
+        
+    securityAndAuth:
+      - "IAM"
+      - "OAuth 2.0"
+      - "OpenID Connect" 
+      - "SAML 2.0"
+      - "Azure AD"
+      - "JWT"
+      
+    projectManagement:
+      - "Jira"
+      - "ServiceNow"
+      - "Agile/Scrum"
+      - "Power BI"
 ```
 ![](https://komarev.com/ghpvc/?username=Akshay-Jayaram&color=blue&style=for-the-badge)
 
