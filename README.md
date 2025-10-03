@@ -19,17 +19,17 @@ Email: akshayj1814@gmail.com
 ```yaml
 akshay:   
   technologies:
-    programmingAndScripting: ["Python", "Go", "JavaScript", "TypeScript", "Bash/Shell scripting"]
+    programmingAndScripting: ["Python", "JavaScript", "TypeScript", "Bash/Shell scripting"]
     
     cloudServices:
-      aws: ["EKS", "Lambda", "API Gateway", "SageMaker", "CloudFormation", "VPC", "S3", "EC2", "CloudFront", "CodeBuild"]
+      aws: ["EKS", "Lambda", "API Gateway", "SageMaker", "VPC", "S3", "EC2", "CloudFront"]
       azure: ["AKS", "Key Vault", "Azure AD"]
       
     devOpsAndInfrastructure:
       containerization: ["Docker", "Kubernetes", "Helm"]
       iac: ["Terraform", "CloudFormation", "Ansible"]
-      cicd: ["Jenkins", "GitHub Actions", "ArgoCD"]
-      monitoring: ["Datadog", "Splunk", "CloudWatch", "Sentry"]
+      cicd: ["GitHub Actions", "CodePipeline", "Jenkins", "ArgoCD"]
+      monitoring: ["Datadog", "Prometheus", "Grafana", "CloudWatch"]
       tools: ["Git", "Linux", "Rancher", "JFrog"]
       
     frameworksAndDatabases:
